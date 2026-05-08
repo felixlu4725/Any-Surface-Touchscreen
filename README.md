@@ -34,9 +34,6 @@ This project brings together sensors, embedded systems, signal processing, and r
 ## Drawing Demo
 ![Untitled-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aec91933-1f68-47e6-9dd9-3635e6a1ca32)
 
-## Project Video
-[![Demo Video](http://img.youtube.com/vi/3E9mqm8sJ4Q/0.jpg)](https://youtu.be/3E9mqm8sJ4Q)
-
 
 ## Hardware Components
 Finger Localization
